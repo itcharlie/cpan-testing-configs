@@ -41,4 +41,4 @@ disabled: 1
 comment: "Hangs on Windows"
 match:
     distribution: "Kavorka-"
-disabled:1
+disabled: 1
