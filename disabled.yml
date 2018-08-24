@@ -32,3 +32,13 @@ comment: "Hangs on Windows"
 match:
     distribution: "Parallel-ForkManager"
 disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "Lexical-TypeTiny"
+disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "Kavorka-"
+disabled:1
