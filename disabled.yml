@@ -1,0 +1,24 @@
+comment: "Test Hangs on Windows"
+match:
+    distribution: "^SIMONW/LWPx-TimedHTTP-"
+disabled: 1
+---
+comment: "Don't build mod_perl if required by some other module"
+match:
+    distribution: "/mod_perl-"
+disabled: 1
+---
+comment: "make test Hangs on Windows"
+match:
+    distribution: "MIME-Signature"
+disabled: 1
+---
+comment: "make Hangs on Windows"
+match:
+    distribution: "Perinci-Sub-Util"
+disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "App-ISBNUtils"
+disabled: 1
