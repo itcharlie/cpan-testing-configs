@@ -1,0 +1,32 @@
+[
+   {
+      "metadata" : {
+         "core" : {
+            "creation_time" : "2018-08-16T02:06:03Z",
+            "creator" : "metabase:user:50219294-6c89-1014-953d-69f215f2f6ad",
+            "update_time" : "2018-08-16T02:06:03Z",
+            "schema_version" : 1,
+            "type" : "Metabase-User-Profile",
+            "resource" : "metabase:user:50219294-6c89-1014-953d-69f215f2f6ad",
+            "valid" : 1,
+            "guid" : "50219294-6c89-1014-953d-69f215f2f6ad"
+         }
+      },
+      "content" : "[{\"metadata\":{\"core\":{\"update_time\":\"2018-08-16T02:06:03Z\",\"schema_version\":1,\"resource\":\"metabase:user:50219294-6c89-1014-953d-69f215f2f6ad\",\"type\":\"Metabase-User-FullName\",\"valid\":1,\"guid\":\"5021ee1e-6c89-1014-953d-69f215f2f6ad\",\"creation_time\":\"2018-08-16T02:06:03Z\",\"creator\":\"metabase:user:50219294-6c89-1014-953d-69f215f2f6ad\"}},\"content\":\"Charlie Gonzalez\"},{\"metadata\":{\"core\":{\"guid\":\"5021f0c5-6c89-1014-953d-69f215f2f6ad\",\"valid\":1,\"resource\":\"metabase:user:50219294-6c89-1014-953d-69f215f2f6ad\",\"type\":\"Metabase-User-EmailAddress\",\"update_time\":\"2018-08-16T02:06:03Z\",\"schema_version\":1,\"creator\":\"metabase:user:50219294-6c89-1014-953d-69f215f2f6ad\",\"creation_time\":\"2018-08-16T02:06:03Z\"}},\"content\":\"itcharlie@cpan.org\"}]"
+   },
+   {
+      "content" : "1bf4d852",
+      "metadata" : {
+         "core" : {
+            "creation_time" : "2018-08-16T02:06:03Z",
+            "creator" : "metabase:user:50219294-6c89-1014-953d-69f215f2f6ad",
+            "schema_version" : 1,
+            "update_time" : "2018-08-16T02:06:03Z",
+            "valid" : 1,
+            "guid" : "5021f283-6c89-1014-953d-69f215f2f6ad",
+            "resource" : "metabase:user:50219294-6c89-1014-953d-69f215f2f6ad",
+            "type" : "Metabase-User-Secret"
+         }
+      }
+   }
+]

@@ -22,3 +22,8 @@ comment: "Hangs on Windows"
 match:
     distribution: "App-ISBNUtils"
 disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "Parallel-WorkUnit"
+disabled: 1
