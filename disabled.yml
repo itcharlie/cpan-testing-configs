@@ -42,3 +42,8 @@ comment: "Hangs on Windows"
 match:
     distribution: "Kavorka-"
 disabled: 1
+---
+comment: "Sigbreak on Windows"
+match:
+    distribution: "NetServer-Generic"
+disabled:1
