@@ -27,3 +27,8 @@ comment: "Hangs on Windows"
 match:
     distribution: "Parallel-WorkUnit"
 disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "Parallel-ForkManager"
+disabled: 1
