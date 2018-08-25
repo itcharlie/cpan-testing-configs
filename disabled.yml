@@ -47,3 +47,8 @@ comment: "Sigbreak on Windows"
 match:
     distribution: "NetServer-Generic"
 disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "App-YouTubeUtils"
+disabled: 1
