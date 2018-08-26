@@ -62,3 +62,8 @@ comment: "Hangs on Windows"
 match:
     distribution: "Paranoid"
 disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "Footprintless"
+disabled: 1
