@@ -67,3 +67,8 @@ comment: "Hangs on Windows"
 match:
     distribution: "Footprintless"
 disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "Class-Accessor-Inherited-XS"
+disabled: 1
