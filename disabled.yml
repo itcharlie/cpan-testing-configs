@@ -72,3 +72,8 @@ comment: "Hangs on Windows"
 match:
     distribution: "Class-Accessor-Inherited-XS"
 disabled: 1
+---
+comment: "Hangs on Windows"
+match:
+    distribution: "App-WHOGrowthReferenceUtils"
+disabled: 1
